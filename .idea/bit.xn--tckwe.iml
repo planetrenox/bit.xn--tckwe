@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="water.css" level="application" />
+    <orderEntry type="library" name="latex.css" level="application" />
+    <orderEntry type="library" name="latex.css" level="application" />
   </component>
 </module>
